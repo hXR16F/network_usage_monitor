@@ -1,4 +1,5 @@
 <p align="center">
+	<br>
 	<b>network_usage_monitor</b>
 	<br>
  	<i>Displays network usage from the last X seconds.</i>
