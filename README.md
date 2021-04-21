@@ -7,17 +7,17 @@
 </p>
 
 # Setup
-### Requirements:
+### Requirements
 * Linux
 * Python 3.6 or newer
 
-### Install:
+### Installing
 ```
 git clone https://github.com/hXR16F/network_usage_monitor.git
 cd network_usage_monitor
 pip install -r requirements.txt
 ```
-### Run:
+### Running
 ```
 python network_usage_monitor.py
 ```
