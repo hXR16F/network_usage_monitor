@@ -3,7 +3,7 @@
 	<br>
  	<i>Displays network usage from the last X seconds.</i>
 	<br><br><br>
-  <a href="https://asciinema.org/a/Jkk3lWe27AOsZYlIKMwa5cS0P" target="_blank"><img src="https://asciinema.org/a/Jkk3lWe27AOsZYlIKMwa5cS0P.svg" /></a>
+  <a href="https://asciinema.org/a/409002" target="_blank"><img src="https://asciinema.org/a/409002.svg" /></a>
 </p>
 
 # Donate
