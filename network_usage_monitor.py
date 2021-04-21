@@ -33,7 +33,7 @@ class msg(object):
 
 
 def main():
-    filename = "output.txt"
+    filename = ".output.txt"
     f = open(filename, "w")
     result = run(["ifconfig", "-s"], stdout=f)
 
