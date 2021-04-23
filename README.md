@@ -9,7 +9,7 @@
 
 # Setup
 ### Requirements
-* Linux
+* Linux (also works on [Termux](https://play.google.com/store/apps/details?id=com.termux) — view [screenshot](https://user-images.githubusercontent.com/48186982/115868748-34291500-a43d-11eb-9bd4-488fe52888a8.png))
 * Python 3.6 or newer
 
 ### Installing
